@@ -24,7 +24,7 @@ The website provides a platform to showcase the coffee shop's products, engage u
 ## Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Sanketpawar7705/Project1.git
     ```
 2. Navigate to the project directory:
     ```bash
